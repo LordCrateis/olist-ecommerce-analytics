@@ -1,0 +1,6 @@
+data/raw/*
+!data/raw/.gitkeep
+*.ipynb_checkpoints
+__pycache__/
+.env
+*.pbix.bak
